@@ -1,6 +1,0 @@
-Ravi:80
-Amit:65
-John:90
-Divyansh:69
-Aayush:91
-Vidhan:89
